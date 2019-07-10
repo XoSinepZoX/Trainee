@@ -45,7 +45,7 @@ a	a
 u	u
 o	o
 @	y
-ii	i
+ii	ii
 ee	ee
 xx	xx
 vv	vv
