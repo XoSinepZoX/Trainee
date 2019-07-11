@@ -19,23 +19,23 @@ l	l
 r	r
 w	w
 j	j
-pr	pr
-pl	pl
-phr	phr
-phl	phl
-tr	tr
-thr	thr
-kr	kr
-kl	kl
-kw	kw
-khr	khr
-khl	khl
-khw	khw
-br	br
-bl	bl
-fr	fr
-fl	fl
-dr	dr
+pr	p r
+pl	p l
+phr	ph r
+phl	ph l
+tr	t r
+thr	th r
+kr	k r
+kl	k l
+kw	k w
+khr	kh r
+khl	kh l
+khw	kh w
+br	b r
+bl	b l
+fr	f r
+fl	f l
+dr	d r
 i	i
 e	e
 x	x
